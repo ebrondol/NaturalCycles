@@ -5,3 +5,5 @@ This repository contains the Jupyter Notebook with the challenge results describ
 * Pandas: Data Manipulation
 * Lifelines: Survival analysis
 * Matplotlib: for plotting/generating graphs
+
+The version of this analysis submitted with the report is tagged as `v0`.
